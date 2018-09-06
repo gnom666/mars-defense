@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>MarsDefense</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.flexbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.apollobuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.adobe.flexbuilder.project.apollonature</nature>
+		<nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[source path] Hi-ReS-Stats-src</name>
+			<type>2</type>
+			<location>F:/1010011010/Work/flex/LIBS/Hi-ReS-Stats/src</location>
+		</link>
+		<link>
+			<name>[source path] Starling-Extension-Particle-System-src</name>
+			<type>2</type>
+			<location>F:/1010011010/Work/flex/LIBS/Starling-Extension-Particle-System/Starling-Extension-Particle-System/src</location>
+		</link>
+		<link>
+			<name>[source path] greensock-as3</name>
+			<type>2</type>
+			<location>F:/1010011010/Work/flex/LIBS/greensock-as3</location>
+		</link>
+		<link>
+			<name>[source path] starling-src</name>
+			<type>2</type>
+			<location>F:/1010011010/Work/flex/LIBS/PrimaryFeather-Starling-Framework-1a50854/starling/src</location>
+		</link>
+	</linkedResources>
+</projectDescription>

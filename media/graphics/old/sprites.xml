@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="sprites.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="aboutBtn.png"	x="672"	y="1391"	width="328"	height="230" frameX="-0" frameY="-0" frameWidth="328" frameHeight="230"/>
+	<SubTexture name="bg_1.png"	x="0"	y="0"	width="800"	height="600" frameX="-0" frameY="-0" frameWidth="800" frameHeight="600"/>
+	<SubTexture name="bg_2.png"	x="0"	y="608"	width="800"	height="455" frameX="-0" frameY="-0" frameWidth="800" frameHeight="455"/>
+	<SubTexture name="bg_3.png"	x="0"	y="1180"	width="800"	height="203" frameX="-0" frameY="-0" frameWidth="800" frameHeight="203"/>
+	<SubTexture name="bg_4.png"	x="0"	y="1071"	width="800"	height="101" frameX="-0" frameY="-0" frameWidth="800" frameHeight="101"/>
+	<SubTexture name="bullet_1.png"	x="609"	y="1391"	width="40"	height="40" frameX="-0" frameY="-0" frameWidth="40" frameHeight="40"/>
+	<SubTexture name="bullet_2.png"	x="609"	y="1439"	width="40"	height="40" frameX="-0" frameY="-0" frameWidth="40" frameHeight="40"/>
+	<SubTexture name="crash.png"	x="808"	y="0"	width="152"	height="129" frameX="-1" frameY="-1" frameWidth="154" frameHeight="131"/>
+	<SubTexture name="hero_1.png"	x="808"	y="274"	width="142"	height="129" frameX="-16" frameY="-0" frameWidth="158" frameHeight="129"/>
+	<SubTexture name="hero_2.png"	x="808"	y="137"	width="150"	height="129" frameX="-8" frameY="-0" frameWidth="158" frameHeight="129"/>
+	<SubTexture name="hero_3.png"	x="798"	y="1892"	width="153"	height="129" frameX="-5" frameY="-0" frameWidth="158" frameHeight="129"/>
+	<SubTexture name="hero_4.png"	x="798"	y="1755"	width="158"	height="129" frameX="-0" frameY="-0" frameWidth="158" frameHeight="129"/>
+	<SubTexture name="item_1.png"	x="556"	y="1943"	width="50"	height="50" frameX="-0" frameY="-0" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="item_2.png"	x="526"	y="1517"	width="50"	height="50" frameX="-0" frameY="-0" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="item_3.png"	x="498"	y="1943"	width="50"	height="50" frameX="-0" frameY="-0" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="item_4.png"	x="468"	y="1517"	width="50"	height="50" frameX="-0" frameY="-0" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="item_5.png"	x="440"	y="1943"	width="50"	height="50" frameX="-0" frameY="-0" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="item_6.png"	x="410"	y="1517"	width="50"	height="50" frameX="-0" frameY="-0" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="item_7.png"	x="382"	y="1943"	width="50"	height="50" frameX="-0" frameY="-0" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="item_8.png"	x="584"	y="1517"	width="50"	height="50" frameX="-0" frameY="-0" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="obstacle_1_1.png"	x="599"	y="1817"	width="191"	height="118" frameX="-0" frameY="-0" frameWidth="192" frameHeight="118"/>
+	<SubTexture name="obstacle_1_2.png"	x="410"	y="1391"	width="191"	height="118" frameX="-0" frameY="-0" frameWidth="192" frameHeight="118"/>
+	<SubTexture name="obstacle_2_1.png"	x="400"	y="1817"	width="191"	height="118" frameX="-0" frameY="-0" frameWidth="192" frameHeight="118"/>
+	<SubTexture name="obstacle_2_2.png"	x="672"	y="1629"	width="191"	height="118" frameX="-0" frameY="-0" frameWidth="192" frameHeight="118"/>
+	<SubTexture name="obstacle_3_1.png"	x="808"	y="968"	width="139"	height="111" frameX="-0" frameY="-0" frameWidth="139" frameHeight="111"/>
+	<SubTexture name="obstacle_3_2.png"	x="808"	y="849"	width="139"	height="111" frameX="-0" frameY="-0" frameWidth="139" frameHeight="111"/>
+	<SubTexture name="obstacle_4_1.png"	x="200"	y="1817"	width="192"	height="109" frameX="-0" frameY="-0" frameWidth="193" frameHeight="109"/>
+	<SubTexture name="obstacle_4_2.png"	x="0"	y="1817"	width="192"	height="109" frameX="-0" frameY="-0" frameWidth="193" frameHeight="109"/>
+	<SubTexture name="obstacle_5_1.png"	x="808"	y="411"	width="140"	height="138" frameX="-0" frameY="-0" frameWidth="140" frameHeight="138"/>
+	<SubTexture name="obstacle_5_2.png"	x="808"	y="557"	width="140"	height="138" frameX="-0" frameY="-0" frameWidth="140" frameHeight="138"/>
+	<SubTexture name="obstacle_5_3.png"	x="808"	y="703"	width="140"	height="138" frameX="-0" frameY="-0" frameWidth="140" frameHeight="138"/>
+	<SubTexture name="playBtn.png"	x="0"	y="1579"	width="328"	height="230" frameX="-0" frameY="-0" frameWidth="328" frameHeight="230"/>
+	<SubTexture name="startBtn.png"	x="336"	y="1579"	width="328"	height="230" frameX="-0" frameY="-0" frameWidth="328" frameHeight="230"/>
+	<SubTexture name="title.png"	x="0"	y="1391"	width="402"	height="180" frameX="-3" frameY="-3" frameWidth="411" frameHeight="193"/>
+	<SubTexture name="watch_out_1.png"	x="0"	y="1943"	width="183"	height="94" frameX="-0" frameY="-0" frameWidth="184" frameHeight="94"/>
+	<SubTexture name="watch_out_2.png"	x="191"	y="1943"	width="183"	height="94" frameX="-0" frameY="-0" frameWidth="184" frameHeight="94"/>
+</TextureAtlas>
